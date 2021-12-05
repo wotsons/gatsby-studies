@@ -11,6 +11,6 @@ export default function Contact(){
             <Link to="/"> HOME </Link>
             <Footer footerText="1"/>
         </div>
-            
+   
     )
 }
